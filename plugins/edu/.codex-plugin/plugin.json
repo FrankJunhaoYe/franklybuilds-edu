@@ -1,0 +1,16 @@
+{
+  "name": "edu",
+  "version": "0.2.1",
+  "description": "Initialize course and group-project workspaces, keep project methods within the course scope unless explicitly approved, and teach from course materials with paced explanations and interactive practice.",
+  "author": {
+    "name": ""
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Edu",
+    "shortDescription": "课程与小组项目初始化、逐页教学与互动练习",
+    "longDescription": "Edu-Init 建立课程学习规则；Edu-GroupProject-Init 支持在课程内新建项目子目录或直接初始化已有项目，整理原始资料、过程资料和提交内容，并规定超纲部分须先获得明确同意；Edu-Teaching 对照原始课件逐页讲解，使用中文解释、英文术语、小例子、过程图示和单题理解检查。",
+    "developerName": "",
+    "category": "Education & Research"
+  }
+}

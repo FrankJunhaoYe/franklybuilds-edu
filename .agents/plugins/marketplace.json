@@ -1,0 +1,20 @@
+{
+  "name": "personal-edu",
+  "interface": {
+    "displayName": "Personal Edu"
+  },
+  "plugins": [
+    {
+      "name": "edu",
+      "source": {
+        "source": "local",
+        "path": "./plugins/edu"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education & Research"
+    }
+  ]
+}

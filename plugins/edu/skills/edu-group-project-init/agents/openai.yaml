@@ -1,0 +1,3 @@
+interface:
+  display_name: "Edu-GroupProject-Init"
+  short_description: "轻量初始化课程小组项目，目录按实际资料逐步建立，保留两种初始化模式与超纲审批"
